@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "rock"
+  },
+  {
+    "name": "metal",
+    "id": 2
+  },
+  {
+    "name": "indie",
+    "id": 3
+  },
+  {
+    "name": "techno",
+    "id": 6
+  }
+]
